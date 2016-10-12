@@ -1,6 +1,6 @@
 [INCLUDE=style/lncs]
 Title         : A SENSITIVITY ANALYSIS OF A HOSPITAL IN CASE OF FIRE
-Subtitle      : The impact of the percentage of people with reduced mobility and the staff to occupant's ratio
+Subtitle      : 
 
 Author        : Anass Rahouti
 Affiliation   : Department of Civil Engineering and Structural Mechanics, Faculty of Engineering, University of Mons
@@ -27,7 +27,7 @@ One of the primary objectives of fire safety is to guarantee the
 evacuation of all the occupants from a building safely. Although fire
 safety rules and regulations exist, they remain insufficient to guarantee
 the safety of all building occupants and do not prevent the dramatic
-events to be repeated. Especially in healthcare facilities, e.g.
+events to be repeated. Especially in health care facilities, e.g.
 hospitals, care homes, etc., the evacuation procedure is more complex
 than in an ordinary building. This is due to multiple reasons such as the
 large number of patients requiring assistance to evacuate or the time
@@ -41,12 +41,12 @@ Considering the limited number of studies on assisted evacuations, this
 work aims to provide a deeper insight on the modeling issues to simulate
 such an event. Based upon a preliminary risk analysis using the Fire Risk
 Assessment Method for Engineering (FRAME), the most critical floor will
-be selected and modeled using Pathfinder, an agent based evacuation
+be selected and modeled using Pathfinder, an agent-based evacuation
 model. Furthermore, the impact of different percentage of People with
 Reduced Mobility will be investigated. Moreover, since the number of
 staff may significantly vary in the same scenarios (e.g. during the
 night), different ratios of staff to occupant's will be studied to show
-the impact of this parameter on the evacuation process of patients.
+the impact of this parameter on the evacuation process.
 
 *Keywords*: Evacuation Modeling, Assisted Evacuation, Fire Safety, Hospital, FRAME
 ~
@@ -87,7 +87,7 @@ independent mobility; **Very high dependency** (non-ambulant), those
 patients whose clinical treatment and/or condition create a high
 dependency on staff. This includes those in intensive care/intensive
 therapy units and operating rooms and those where evacuation would prove
-potentially life threatening. Patients being cared for in healthcare
+potentially life threatening. Patients being cared for in health care
 premises will vary considerably in terms of mobility and levels of
 awareness during a fire situation. There may be patients who exhibit
 severe mobility restriction but will have a good awareness of the
@@ -96,10 +96,12 @@ mobility, but their level of awareness may be such that they present
 unpredictable behaviour (including violent behaviour), which may impede
 staff in an emergency.
 
-Conducting real experiments in health care environments is prohibited
+It is true that the ideal way to determine the egress time required and the best evacuation 
+ strategy would be to conduct some timed evacuation drills involving the movement of all the patients. However, conducting
+ real experiments in health care environments is prohibited
 since such experiments will be really hazardous in presence of vulnerable
-people. Another alternative consists on using simulation tools. In fact,
-it is well known that evacuation models are powerful tools to study the
+people. Another alternative consists on using simulation tools. This would identify many simple problems that may be rectified before any emergency evacuation should occur. 
+ In fact, it is well known that evacuation models are powerful tools to study the
 evacuation process in different scenarios and
 applications [@2;@3;@4;@5;@6]. We can find several reviews [@2;@3] that
 show the capabilities and limitations of these types of models. These
@@ -179,10 +181,10 @@ patient's ratio on the evacuation process.
 
 # METHODS
 
-The methods employed in this study were a combination of risk assessment
+The methods employed in this study combine risk assessment
 and evacuation modeling techniques. The initial phase of the study was
 therefore the use of the Fire Risk Assessment Method for Engineering [@25]
-to identify the most critical floor. The layout of this floor is modeled
+to identify the most critical floor. The layout of this floor was modeled
 within Pathfinder using a third-party (PyroSim). And finally, a number of
 patients with different individual characteristics were created and
 distributed throughout the model.
@@ -204,11 +206,11 @@ open-air environment.
 
 Apart from its use in airports [@26], industry [@27] and cultural
 heritage buildings [@28;@29] this method has been employed mainly for
-healthcare facilities [@30;@31].
+health care facilities [@30;@31].
 
 ## PATHFINDER
 
-Pathfinder is an agent based egress and human movement simulator. It is
+Pathfinder is an agent-based egress and human movement simulator. It is
 developed by Thunderhead Engineering. Its purpose is to provide an
 analytical evacuation tool that could be coupled with an external fire
 model such as FDS (Fire Dynamics Simulator) [@32] to form portion of
@@ -262,7 +264,7 @@ described here.
 
 ~ TableFigure {#tab-pre-evac, caption:"Pre-evacuation time [@34;@35] and horizontal walking speed [@36] for ambulant patients."}
 |--------------------------------|------|------|-------------|
-|                                | Mean |    | Range       |
+|                                | Mean | St. Dev.   | Range       |
 +:-------------------------------+:----:+:----:+:-----------:+
 | Pre-evacuation time (s)        | 50.8 | -    | 30 – 66     |
 |--------------------------------|------|------|-------------|
@@ -273,7 +275,7 @@ described here.
 
 ~ TableFigure {#tab-prep-trans, caption:"Preparation time and transportation walking speed for non-ambulant patients."}
 |                                                                         |||------|-----|---------|
-|                                                                         ||| Mean |   | Range   |
+|                                                                         ||| Mean |  St. Dev.  | Range   |
 +:-------------------------+:-----------+:----------------------------------+:----:+:---:+:-------:+
 | Dependent patients [@10] | Evacuation | Preparation time (s)              | 32.7 | 5.3 | -       |
 |                          | Chair      |-----------------------------------|------|-----|---------|
@@ -470,8 +472,8 @@ range of value between 163 seconds and 622 seconds.
 
 ### Scenario 2 {#path-s2}
 
-A comparison between the mean evacuation curves of scenario 1 and
-scenario 2 is shown in Figure [#mean-evac-curve_s1-s2]. The results demonstrate that there is an
+A comparison between the mean evacuation curves of scenarios 1 and 2
+is shown in Figure [#mean-evac-curve_s1-s2]. The results demonstrate that there is an
 increase in total evacuation time when assisted evacuation is performed
 involving dependent and highly-dependent patients. In fact, for
 sub-scenario 2.1, in presence of 6 attendants to assist on the evacuation
@@ -481,11 +483,11 @@ attendants to assist on the evacuation of dependent and highly-dependent
 patients, the total evacuation takes in average about 2124 seconds.
 
 Comparing the mean total evacuation times of scenarios 1 and 2, one can
-say that conducting an evacuation in presence of non-ambulant patients
-takes a higher time than a "normal" evacuation. This is due to the fact
+say that conducting an evacuation in presence of assisted patients
+takes a higher time than a "normal" evacuation (involving ambulant patients only). This is due to the fact
 that the evacuation of dependent and highly-dependent patients is delayed
-due to the preparation times required and the waiting for someone (or
-some people) to assist them before starting to evacuate.
+due to the preparation times required and the waiting for someone to assist them before starting to evacuate.
+Furthermore, when considering only dependent patients, there is a slight increase of the total evacuation time, while when considering a mix of dependent and highly-dependent patients, the increase of total evacuation time is extremely higher. This is due to the fact that (1) the time required to prepare highly-dependent patients is higher than the time required to prepare dependent patients and, (2) when evacuating a highly-dependent patient, the group (nurses + the patient) evolves at a reduced velocity comparing to the case when they assist on the evacuation of a dependent patient. 
 
 ~ Figure {#mean-evac-curve_s1-s2, caption:"Comparison of the mean evacuation curves for scenario 1 and 2"}
 ![mean-evac-curve-s1_s2]
@@ -494,11 +496,45 @@ some people) to assist them before starting to evacuate.
 [mean-evac-curve-s1_s2]: images/mean-evac-curve-s1_s2.png "mean-evac-curve-s1_s2" { width:auto; max-width:100% } 
 
 ### Scenario 3 {#path-s3}
+The results from the scenario 3, compared in Figure [#fig-evac-curve-s3], show that there is an 
+increase in total evacuation time when considering a lower number of 
+attendants. Indeed, when considering 6 EG (12 attendants) the total 
+evacuation time is about 35 minutes, while when only 4 EG (8 attendants) 
+are present, the total evacuation time increase to about 48 minutes. 
+If we continue to reduce the number of emergency groups (e.g. evacuation
+ during the night), a safe evacuation of the non-ambulant patients will 
+ not necessarily be guaranteed, since the total evacuation times will reach
+  extremely high values.
 
 
-Figure 5: comparison of evacuation curves for scenarios 1 and 3 
+~ Figure {#fig-evac-curve-s3, caption:"comparison of evacuation curves for scenario 3 "}
+![evac-curve-scenario3]
+~
+
+[evac-curve-scenario3]: images/evac-curve-scenario3.png "evac-curve-scenario3" { width:auto; max-width:100% }
+
+
 
 # CONCLUSION
+The main objectives of this paper were: (1) the simulation of prescript 
+assisted evacuation using and agent based model, i.e. Pathfinder2016; 
+(2) the evaluation of the effect of different numbers and categories 
+of people with reduced mobility on the evacuation process; and, (3) 
+the study of the impact of staff to patient’s ratio on the evacuation 
+process.
+
+The analysis of the results showed that (1) conducting an assisted evacuation
+ takes a higher time than an evacuation involving ambulant patients only (2) 
+ the number of non-ambulant patients in the event of a fire should be designed 
+ to be as few as possible. This may be achieved by establishing a number of 
+ protected areas within the floors. Restricting the number of patients within
+  each protected area will be of benefit in an evacuation in terms of fewer 
+  patients requiring to be moved away from the fire and reducing the total
+   evacuation time needed; (3) the type of non-ambulant patients involved
+    on the evacuation process influence the total evacuation time. Indeed, 
+    evacuating highly-dependent patients lead to a higher total evacuation 
+    time than evacuating dependent patients; and, (4) the presence of a
+     large number of attendants leads to faster evacuation.
 
 # FUTURE WORK
 
