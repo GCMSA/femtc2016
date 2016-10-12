@@ -311,7 +311,7 @@ attendants (two).
 For highly dependent patients, the number of attendants needed is
 unknown. Therefore, we suppose that two attendants are enough.
 
-~ TableFigure {#tab-operators-roles, caption:"The number of operators and their roles for each device [@10]"}
+~ TableFigure {#tab-operators-roles, caption:"The number of operators and their roles for each device [@10]."}
 
 | Experiment   | Role         | Stretcher | Evacuation | Carry Chair | Carry Chair  | Rescue |
 | Phase        |              |           | Chair      | (Male team) | (Female team)| Sheet  |
