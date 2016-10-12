@@ -1,0 +1,146 @@
+~ begin bibliography { .bib-numeric; cite-style:"numeric:'[',']',', '" ; caption:"36" ; data-style:"numeric" ; data-style:'madoko-numeric';  }
+~ begin bibitem {id:"3"; cite-year:"6AD"; cite-authors:"Aguirre"; cite-authors-long:"Aguirre"; cite-label:"1"; caption:"A critical review of emergency evacuation simulation models&nl;Aguirre, 6AD"; data-line:"references.bib:20"; searchterm:"A%20critical%20review%20of%20emergency%20evacuation%20simulation%20models%20Aguirre%2C%206AD"; bibitem-label:"\[1\]"}
+\/G.&nbsp;Santos; B.E.&nbsp;Aguirre. &ldquo;A Critical Review of Emergency Evacuation Simulation Models.&rdquo; In _Proceeding of the NIST Workshop on Building Occupant Movement during Fire Emergencies_, 25–50. NIST, Gaithersburg, USA.&nbsp;Oct. 6AD.
+~ end bibitem
+
+~ begin bibitem {id:"18"; cite-year:"7AD"; cite-authors:"Alonso"; cite-authors-long:"Alonso"; cite-label:"2"; caption:"Egress Modelling in Health Care Occupancies&nl;Alonso, 7AD"; data-line:"references.bib:147"; searchterm:"Egress%20Modelling%20in%20Health%20Care%20Occupancies%20Alonso%2C%207AD"; bibitem-label:"\[2\]"}
+\/V.&nbsp;Alonso. _Egress Modelling in Health Care Occupancies_. The Fire Protection Research Foundation, Technical Notes, USA.&nbsp;7AD.
+~ end bibitem
+
+~ begin bibitem {id:"13"; cite-year:"2016"; cite-authors:"Alvear"; cite-authors-long:"Alvear"; cite-label:"3"; caption:"Evacuation modeling trends&nl;Alvear, 2016"; data-line:"references.bib:109"; searchterm:"Evacuation%20modeling%20trends%20Alvear%2C%202016"; bibitem-label:"\[3\]"}
+\/A.&nbsp;Cuesta; O.&nbsp;Abreu; D.&nbsp;Alvear. &ldquo;Evacuation Modeling Trends.&rdquo; Springer. 2016.
+~ end bibitem
+
+~ begin bibitem {id:"4"; cite-year:"2007"; cite-authors:"Castle"; cite-authors-long:"Castle"; cite-label:"4"; caption:"Guidelines for assessing pedestrian evacuation software applications&nl;Castle, 2007"; data-line:"references.bib:31"; searchterm:"Guidelines%20for%20assessing%20pedestrian%20evacuation%20software%20applications%20Castle%2C%202007"; bibitem-label:"\[4\]"}
+\/C.J.E Castle. _Guidelines for Assessing Pedestrian Evacuation Software Applications_. Edited by Centre for Advanced Spatial Analysis. University College London, London. 2007.
+~ end bibitem
+
+~ begin bibitem {id:"31"; cite-year:"2016"; cite-authors:"Datoussaïd"; cite-authors-long:"Datoussaïd"; cite-label:"5"; caption:"Prédiction du risque incendie en milieu hospitalier&nl;Datoussaïd, 2016"; data-line:"references.bib:252"; searchterm:"Pr%C3%A9diction%20du%20risque%20incendie%20en%20milieu%20hospitalier%20Datoussa%C3%AFd%2C%202016"; bibitem-label:"\[5\]"}
+\/A.&nbsp;Rahouti; S.&nbsp;Datoussaïd. &ldquo;Prédiction Du Risque Incendie En Milieu Hospitalier.&rdquo; In _GISEH16:La 8ème Conférence Francophone En Gestion et Ingénierie Des Systèmes Hospitaliers_. 2016.
+~ end bibitem
+
+~ begin bibitem {id:"14"; cite-year:"2016"; cite-authors:"Engineering"; cite-authors-long:"Engineering"; cite-label:"6"; caption:"Pathfinder 2016, Technical Reference&nl;Engineering, 2016"; data-line:"references.bib:116"; searchterm:"Pathfinder%202016%2C%20Technical%20Reference%20Engineering%2C%202016"; bibitem-label:"\[6\]"}
+\/Thunderhead Engineering. _Pathfinder 2016, Technical Reference_. 2016.
+~ end bibitem
+
+~ begin bibitem {id:"5"; cite-year:"1999"; cite-authors:"Fillipidis"; cite-authors-long:"Fillipidis"; cite-label:"7"; caption:"Review of modelling methodologies used in the simulation of evacuation&nl;Fillipidis, 1999"; data-line:"references.bib:40"; searchterm:"Review%20of%20modelling%20methodologies%20used%20in%20the%20simulation%20of%20evacuation%20Fillipidis%2C%201999"; bibitem-label:"\[7\]"}
+\/S.M.V Gwynne; E.R.&nbsp;Galea; M.&nbsp;Owen; P.J.&nbsp;Lawrence; L.&nbsp;Fillipidis. &ldquo;Review of Modelling Methodologies Used in the Simulation of Evacuation.&rdquo; _J.&nbsp;Build. Environ., 34_. 1999.
+~ end bibitem
+
+~ begin bibitem {id:"29"; cite-year:"n.d."; cite-authors:"FiRE-TECH"; cite-authors-long:"FiRE-TECH"; cite-label:"8"; caption:"Fire Risk Evaluation to European Cultural Heritage European study into the Fire Risk to European Cultural Heritage:WG6: Fire Risk Assessment Methods Draft final report&nl;FiRE-TECH, n.d."; data-line:"references.bib:239"; searchterm:"Fire%20Risk%20Evaluation%20to%20European%20Cultural%20Heritage%20European%20study%20into%20the%20Fire%20Risk%20to%20European%20Cultural%20Heritage%3AWG6%3A%20Fire%20Risk%20Assessment%20Methods%20Draft%20final%20report%20FiRETECH%2C%20n.d."; bibitem-label:"\[8\]"}
+\/Project FiRE-TECH.&nbsp;&ldquo;Fire Risk Evaluation to European Cultural Heritage European Study into the Fire Risk to European Cultural Heritage:WG6: Fire Risk Assessment Methods Draft Final Report.&rdquo; <http://www.framemethod.net/indexen_html_files/wg6finalreport.pdf>{.bib-url}.
+~ end bibitem
+
+~ begin bibitem {id:"22"; cite-year:"1987"; cite-authors:"Fruin"; cite-authors-long:"Fruin"; cite-label:"9"; caption:"Pedestrian planning and design&nl;Fruin, 1987"; data-line:"references.bib:191"; searchterm:"Pedestrian%20planning%20and%20design%20Fruin%2C%201987"; bibitem-label:"\[9\]"}
+\/Fruin. _Pedestrian Planning and Design_. Book; Book/Illustrated. Revised ed. Mobile, AL : Elevator World. 1987. Based on the author’s thesis, originally presented at the Polytechnic Institute of Brooklyn under the title: Designing for pedestrians.
+~ end bibitem
+
+~ begin bibitem {id:"20"; cite-year:"3AD"; cite-authors:"Galea"; cite-authors-long:"Galea"; cite-label:"10"; caption:"An experimental evaluation of movement devices used to assist people with reduced mobility in high-rise building evacuations&nl;Galea, 3AD"; data-line:"references.bib:165"; searchterm:"An%20experimental%20evaluation%20of%20movement%20devices%20used%20to%20assist%20people%20with%20reduced%20mobility%20in%20highrise%20building%20evacuations%20Galea%2C%203AD"; bibitem-label:"\[10\]"}
+\/A.P.M Adams; E.R Galea. &ldquo;An Experimental Evaluation of Movement Devices Used to Assist People with Reduced Mobility in High-Rise Building Evacuations.&rdquo; In _Pedestrian and Evacuation Dynamics 2010, 5th International Conference_, edited by E.D.; Averill, J.D.&nbsp;Peacock R.D.; Kuligowski, 129–138. Springer, New York, NY.&nbsp;3AD.
+~ end bibitem
+
+~ begin bibitem {id:"37"; cite-year:"2011"; cite-authors:"Gallaher"; cite-authors-long:"Gallaher"; cite-label:"11"; caption:"Hospital Evacuation Toolkit&nl;Gallaher, 2011"; data-line:"references.bib:304"; searchterm:"Hospital%20Evacuation%20Toolkit%20Gallaher%2C%202011"; bibitem-label:"\[11\]"}
+\/C.&nbsp;Walts; J.&nbsp;Stanford; P.&nbsp;Weydeck; J.&nbsp;Lukat; C.&nbsp;Larsen; G.&nbsp;Benigni; C.&nbsp;Grady; C.&nbsp;Gallaher. _Hospital Evacuation Toolkit_. Florida Department of Health. 2011.
+~ end bibitem
+
+~ begin bibitem {id:"16"; cite-year:"2011"; cite-authors:"Group"; cite-authors-long:"Group"; cite-label:"12"; caption:"STEPS (Simulation of Transient Evacuation and Pedestrian movements) User Manual&nl;Group, 2011"; data-line:"references.bib:130"; searchterm:"STEPS%20Simulation%20of%20Transient%20Evacuation%20and%20Pedestrian%20movements%20User%20Manual%20Group%2C%202011"; bibitem-label:"\[12\]"}
+\/STEPS - Simulation Group. _STEPS (Simulation of Transient Evacuation and Pedestrian Movements) User Manual_. Edited by Mott MacDonald. Croydon, UK.&nbsp;2011.
+~ end bibitem
+
+~ begin bibitem {id:"35"; cite-year:"2002"; cite-authors:"Hickson"; cite-authors-long:"Hickson"; cite-label:"13"; caption:"The collection of pre-evacuation times from evacuation trials involving hospital outpatient facility, in Evans DD&nl;Hickson, 2002"; data-line:"references.bib:286"; searchterm:"The%20collection%20of%20preevacuation%20times%20from%20evacuation%20trials%20involving%20hospital%20outpatient%20facility%2C%20in%20Evans%20DD%20Hickson%2C%202002"; bibitem-label:"\[13\]"}
+\/S.M.V Gwynne; E.R Galea; J.&nbsp;Parke; J.&nbsp;Hickson. &ldquo;The Collection of Pre-Evacuation Times from Evacuation Trials Involving Hospital Outpatient Facility, in Evans DD.&rdquo; In _Proceedings of the 7th International Symposium Fire Safety Science_, 877–888. IAFSS.&nbsp;2002.
+~ end bibitem
+
+~ begin bibitem {id:"34"; cite-year:"2003"; cite-authors:"Hickson"; cite-authors-long:"Hickson"; cite-label:"14"; caption:"The collection and analysis of pre-evacuation time data collected from evacuation trials and their application to evacuation modeling&nl;Hickson, 2003"; data-line:"references.bib:276"; searchterm:"The%20collection%20and%20analysis%20of%20preevacuation%20time%20data%20collected%20from%20evacuation%20trials%20and%20their%20application%20to%20evacuation%20modeling%20Hickson%2C%202003"; bibitem-label:"\[14\]"}
+\/S.M.V Gwynne; E.R Galea; J.&nbsp;Parke; J.&nbsp;Hickson. &ldquo;The Collection and Analysis of Pre-Evacuation Time Data Collected from Evacuation Trials and Their Application to Evacuation Modeling.&rdquo; _Fire Technology_, number 2,39: 179–195. 2003.
+~ end bibitem
+
+~ begin bibitem {id:"2"; cite-year:"2010"; cite-authors:"Hoskins"; cite-authors-long:"Hoskins"; cite-label:"15"; caption:"Technical Note 1680:A review of building evacuation models (2nd edition)&nl;Hoskins, 2010"; data-line:"references.bib:10"; searchterm:"Technical%20Note%201680%3AA%20review%20of%20building%20evacuation%20models%202nd%20edition%20Hoskins%2C%202010"; bibitem-label:"\[15\]"}
+\/E.D.&nbsp;Kuligowski; R.D.&nbsp;Peacock; B.L.&nbsp;Hoskins. _Technical Note 1680:A Review of Building Evacuation Models (2nd Edition)_. Techreport. NIST, Gaithersburg, USA.&nbsp;2010.
+~ end bibitem
+
+~ begin bibitem {id:"32"; cite-year:"2009"; cite-authors:"Hostikka"; cite-authors-long:"Hostikka"; cite-label:"16"; caption:"Fire Dynamics Simulator with Evacuation – FDS+Evac, Version 2.5.0 – Technical Reference and User's Guide&nl;Hostikka, 2009"; data-line:"references.bib:259"; searchterm:"Fire%20Dynamics%20Simulator%20with%20Evacuation%20%E2%80%93%20FDS%2BEvac%2C%20Version%202.5.0%20%E2%80%93%20Technical%20Reference%20and%20User's%20Guide%20Hostikka%2C%202009"; bibitem-label:"\[16\]"}
+\/T.&nbsp;Korhonen; S.&nbsp;Hostikka. _Fire Dynamics Simulator with Evacuation – FDS+Evac, Version 2.5.0 – Technical Reference and User’s Guide_. VTT, Helsinki, Finland. 2009.
+~ end bibitem
+
+~ begin bibitem {id:"10"; cite-year:"2016"; cite-authors:"Hunt"; cite-authors-long:"Hunt"; cite-label:"17"; caption:"Simulating Hospital Evacuation&nl;Hunt, 2016"; data-line:"references.bib:86"; searchterm:"Simulating%20Hospital%20Evacuation%20Hunt%2C%202016"; bibitem-label:"\[17\]"}
+\/A.&nbsp;Hunt. &ldquo;Simulating Hospital Evacuation.&rdquo; Phdthesis, University of Greenwich. 2016.
+~ end bibitem
+
+~ begin bibitem {id:"11"; cite-year:"2006"; cite-authors:"Johnson"; cite-authors-long:"Johnson"; cite-label:"18"; caption:"Using Computer Simulations to Support a Risk-Based Approach for Hospital Evacuation&nl;Johnson, 2006"; data-line:"references.bib:93"; searchterm:"Using%20Computer%20Simulations%20to%20Support%20a%20RiskBased%20Approach%20for%20Hospital%20Evacuation%20Johnson%2C%202006"; bibitem-label:"\[18\]"}
+\/W.&nbsp;Johnson. _Using Computer Simulations to Support a Risk-Based Approach for Hospital Evacuation_. Glasgow Accident Analysis Group, Department of Computing Science, University of Glasgow, Glasgow, UK.&nbsp;2006.
+~ end bibitem
+
+~ begin bibitem {id:"6"; cite-year:"2008"; cite-authors:"Kuligowski"; cite-authors-long:"Kuligowski"; cite-label:"19"; caption:"Application modes of egress simulation&nl;Kuligowski, 2008"; data-line:"references.bib:48"; searchterm:"Application%20modes%20of%20egress%20simulation%20Kuligowski%2C%202008"; bibitem-label:"\[19\]"}
+\/S.M.V Gwynne; E.D.&nbsp;Kuligowski. &ldquo;Application Modes of Egress Simulation.&rdquo; In _Proceeding of Pedestrian and Evacuation Dynamics_, 397–409. Wuppertal, Germany. 2008.
+~ end bibitem
+
+~ begin bibitem {id:"21"; cite-year:"2013"; cite-authors:"A.&nbsp;H.&nbsp;E.&nbsp;R.&nbsp;G.&nbsp;P.&nbsp;Lawrence"; cite-authors-long:"A.&nbsp;H.&nbsp;E.&nbsp;R.&nbsp;G.&nbsp;P.&nbsp;Lawrence"; cite-label:"20"; caption:"An Analysis and Numerical Simulation of the Performance of Trained Hospital Staff using Movement Assist Devices to Evacuate People with Reduced Mobility&nl;A. H. E. R. G. P. Lawrence, 2013"; data-line:"references.bib:176"; searchterm:"An%20Analysis%20and%20Numerical%20Simulation%20of%20the%20Performance%20of%20Trained%20Hospital%20Staff%20using%20Movement%20Assist%20Devices%20to%20Evacuate%20People%20with%20Reduced%20Mobility%20A.%20H.%20E.%20R.%20G.%20P.%20Lawrence%2C%202013"; bibitem-label:"\[20\]"}
+\/A.&nbsp;Hunt; E.R.&nbsp;Galea; P.&nbsp;Lawrence. &ldquo;An Analysis and Numerical Simulation of the Performance of Trained Hospital Staff Using Movement Assist Devices to Evacuate People with Reduced Mobility.&rdquo; _Fire and Materials_ 39 (4). Wiley-Blackwell: 407–429. Dec. 2013. doi:[10.1002/fam.2215](https://dx.doi.org/10.1002/fam.2215){.bib-doi}.
+~ end bibitem
+
+~ begin bibitem {id:"9"; cite-year:"2003"; cite-authors:"J.&nbsp;P.&nbsp;S.&nbsp;M.&nbsp;. G.&nbsp;E.&nbsp;. G.&nbsp;P.&nbsp;Lawrence"; cite-authors-long:"J.&nbsp;P.&nbsp;S.&nbsp;M.&nbsp;. G.&nbsp;E.&nbsp;. G.&nbsp;P.&nbsp;Lawrence"; cite-label:"21"; caption:"Validating the buildingEXODUS evacuation model using data from an unannounced trial evacuation&nl;J. P. S. M. . G. E. . G. P. Lawrence, 2003"; data-line:"references.bib:78"; searchterm:"Validating%20the%20buildingEXODUS%20evacuation%20model%20using%20data%20from%20an%20unannounced%20trial%20evacuation%20J.%20P.%20S.%20M.%20.%20G.%20E.%20.%20G.%20P.%20Lawrence%2C%202003"; bibitem-label:"\[21\]"}
+\/J.&nbsp;Parke; S.M.V Gwynne; E.D Galea; P.&nbsp;Lawrence. &ldquo;Validating the buildingEXODUS Evacuation Model Using Data from an Unannounced Trial Evacuation.&rdquo; In _Proceedings of 2nd International Pedestrian and Evacuation Dynamics Conference_. London, UK.&nbsp;2003.
+~ end bibitem
+
+~ begin bibitem {id:"7"; cite-year:"1989"; cite-authors:"Levin"; cite-authors-long:"Levin"; cite-label:"22"; caption:"EXITT- A simulation model of occupant decisions and actions in residential fires&nl;Levin, 1989"; data-line:"references.bib:57"; searchterm:"EXITT%20A%20simulation%20model%20of%20occupant%20decisions%20and%20actions%20in%20residential%20fires%20Levin%2C%201989"; bibitem-label:"\[22\]"}
+\/B.M Levin. &ldquo;EXITT- A Simulation Model of Occupant Decisions and Actions in Residential Fires.&rdquo; In _Proceedings of the 2nd International Symposium on Fire Safety Science_. Tokyo, Japan. 1989.
+~ end bibitem
+
+~ begin bibitem {id:"15"; cite-year:"2007"; cite-authors:"Matikainen"; cite-authors-long:"Matikainen"; cite-label:"23"; caption:"FDS+Evac: evacuation module for fire dynamics simulator&nl;Matikainen, 2007"; data-line:"references.bib:122"; searchterm:"FDS%2BEvac%3A%20evacuation%20module%20for%20fire%20dynamics%20simulator%20Matikainen%2C%202007"; bibitem-label:"\[23\]"}
+\/T.&nbsp;Korhonen; S.&nbsp;Hostikka; S.&nbsp;Heliövaara; H.&nbsp;Ehtamo; K.&nbsp;Matikainen. &ldquo;FDS+Evac: Evacuation Module for Fire Dynamics Simulator.&rdquo; In _Interflam2007: 11th International Conference on Fire Science and Engineering_. London, UK.&nbsp;2007.
+~ end bibitem
+
+~ begin bibitem {id:"23"; cite-authors:"2002"; cite-authors-long:"2002"; cite-label:"24"; caption:"MSC Circ. 1248, Interim Guidelines for Evacuation Analyses for New and Existing Passenger Ships International Maritime Organization&nl;2002, "; data-line:"references.bib:204"; searchterm:"MSC%20Circ.%201248%2C%20Interim%20Guidelines%20for%20Evacuation%20Analyses%20for%20New%20and%20Existing%20Passenger%20Ships%20International%20Maritime%20Organization%202002%2C%20"; bibitem-label:"\[24\]"}
+\/_MSC Circ. 1248, Interim Guidelines for Evacuation Analyses for New and Existing Passenger Ships International Maritime Organization_. 2002.
+~ end bibitem
+
+~ begin bibitem {id:"33"; cite-year:"2002"; cite-authors:"Nelson and Mowrer"; cite-authors-long:"Nelson and Mowrer"; cite-label:"25"; caption:"Emergency Movement&nl;Nelson and Mowrer, 2002"; data-line:"references.bib:267"; searchterm:"Emergency%20Movement%20Nelson%20and%20Mowrer%2C%202002"; bibitem-label:"\[25\]"}
+\/H.&nbsp;Nelson, and F.&nbsp;Mowrer. &ldquo;Emergency Movement.&rdquo; In _SFPE Handbook of Fire Protection Engineering, Third Ed._, edited by P.&nbsp;DiNenno. Quincy, MA.&nbsp;2002.
+~ end bibitem
+
+~ begin bibitem {id:"19"; cite-year:"2014"; cite-authors:"Poggi"; cite-authors-long:"Poggi"; cite-label:"26"; caption:"Egress from a Hospital Ward: a Case Study&nl;Poggi, 2014"; data-line:"references.bib:156"; searchterm:"Egress%20from%20a%20Hospital%20Ward%3A%20a%20Case%20Study%20Poggi%2C%202014"; bibitem-label:"\[26\]"}
+\/D.&nbsp;Ursetta; A.&nbsp;D’Orazio; L.&nbsp;Grossi; G.&nbsp;Carbotti; S.&nbsp;Casentini; L.&nbsp;Poggi. _Egress from a Hospital Ward: A Case Study_. FEMTC2014: Fire and Evacuation Modeling Technical Conference 2014. 2014. <http://www.thunderheadeng.com/2014/10/femtc2014_d2-b-3_carbotti/>{.bib-url}.
+~ end bibitem
+
+~ begin bibitem {id:"8"; cite-year:"2008"; cite-authors:"Sasaki"; cite-authors-long:"Sasaki"; cite-label:"27"; caption:"Agent-Based Emergency Evacuation Simulation with Individuals with Disabilities in the Population&nl;Sasaki, 2008"; data-line:"references.bib:66"; searchterm:"AgentBased%20Emergency%20Evacuation%20Simulation%20with%20Individuals%20with%20Disabilities%20in%20the%20Population%20Sasaki%2C%202008"; bibitem-label:"\[27\]"}
+\/K.&nbsp;Christensen; Y.&nbsp;Sasaki. &ldquo;Agent-Based Emergency Evacuation Simulation with Individuals with Disabilities in the Population.&rdquo; _Journal of Artificial Societies and Social Simulation_ 11 (3): 9. 2008. <http://jasss.soc.surrey.ac.uk/11/3/9.html>{.bib-url}.
+~ end bibitem
+
+~ begin bibitem {id:"1"; cite-year:"2013"; cite-authors:"Sécurité"; cite-authors-long:"Sécurité"; cite-label:"28"; caption:"Statistiques 2013 des services d'incendie belges&nl;Sécurité, 2013"; data-line:"references.bib:3"; searchterm:"Statistiques%202013%20des%20services%20d'incendie%20belges%20S%C3%A9curit%C3%A9%2C%202013"; bibitem-label:"\[28\]"}
+\/Centre fédéral de connaissances pour la civile Sécurité. _Statistiques 2013 Des Services D’incendie Belges_. Techreport. 2013.
+~ end bibitem
+
+~ begin bibitem {id:"17"; cite-year:"2001"; cite-authors:"Shimshak"; cite-authors-long:"Shimshak"; cite-label:"29"; caption:"Estimation of the Evacuation Time in an Emergency Situation in Hospitals&nl;Shimshak, 2001"; data-line:"references.bib:138"; searchterm:"Estimation%20of%20the%20Evacuation%20Time%20in%20an%20Emergency%20Situation%20in%20Hospitals%20Shimshak%2C%202001"; bibitem-label:"\[29\]"}
+\/D.&nbsp;Golmohammadi; D.&nbsp;Shimshak. &ldquo;Estimation of the Evacuation Time in an Emergency Situation in Hospitals.&rdquo; _Computer and Industrial Engineering_, 1256–1267. 2001.
+~ end bibitem
+
+~ begin bibitem {id:"36"; cite-year:"1999"; cite-authors:"Silcock"; cite-authors-long:"Silcock"; cite-label:"30"; caption:"Toward the characterization of building occupancies for fire safety engineering: capabilities of disabled people moving horizontally and on an incline&nl;Silcock, 1999"; data-line:"references.bib:295"; searchterm:"Toward%20the%20characterization%20of%20building%20occupancies%20for%20fire%20safety%20engineering%3A%20capabilities%20of%20disabled%20people%20moving%20horizontally%20and%20on%20an%20incline%20Silcock%2C%201999"; bibitem-label:"\[30\]"}
+\/K.E Boyce; T.J Shields; G.W.H Silcock. &ldquo;Toward the Characterization of Building Occupancies for Fire Safety Engineering: Capabilities of Disabled People Moving Horizontally and on an Incline.&rdquo; _Fire Technology_, number 35: 51–67. 1999.
+~ end bibitem
+
+~ begin bibitem {id:"25"; cite-year:"2016d"; cite-authors:"Smet"; cite-authors-long:"Smet"; cite-label:"31"; caption:"F.R.A.M.E: Fire Risk Assessment Method for Engineering&nl;Smet, 2016d"; data-line:"references.bib:211"; searchterm:"F.R.A.M.E%3A%20Fire%20Risk%20Assessment%20Method%20for%20Engineering%20Smet%2C%202016d"; bibitem-label:"\[31\]"}
+\/De Smet. &ldquo;F.R.A.M.E: Fire Risk Assessment Method for Engineering.&rdquo; Sep. 2016. Accessed September 19. <http://www.framemethod.net/indexen.html>{.bib-url}.
+~ end bibitem
+
+~ begin bibitem {id:"26"; cite-year:"2016b"; cite-authors:"Smet"; cite-authors-long:"Smet"; cite-label:"32"; caption:"F.R.A.M.E calculation report: Düsseldorf Airport&nl;Smet, 2016b"; data-line:"references.bib:218"; searchterm:"F.R.A.M.E%20calculation%20report%3A%20D%C3%BCsseldorf%20Airport%20Smet%2C%202016b"; bibitem-label:"\[32\]"}
+\/De Smet. &ldquo;F.R.A.M.E Calculation Report: Düsseldorf Airport.&rdquo; Sep. 2016. Accessed September 19. <http://www.framemethod.net/indexen_15.html>{.bib-url}.
+~ end bibitem
+
+~ begin bibitem {id:"27"; cite-year:"2016c"; cite-authors:"Smet"; cite-authors-long:"Smet"; cite-label:"33"; caption:"F.R.A.M.E calculation report: Sofa Super Store Fire&nl;Smet, 2016c"; data-line:"references.bib:225"; searchterm:"F.R.A.M.E%20calculation%20report%3A%20Sofa%20Super%20Store%20Fire%20Smet%2C%202016c"; bibitem-label:"\[33\]"}
+\/De Smet. &ldquo;F.R.A.M.E Calculation Report: Sofa Super Store Fire.&rdquo; Sep. 2016. Accessed September 19. <http://www.framemethod.net/indexen_23.html>{.bib-url}.
+~ end bibitem
+
+~ begin bibitem {id:"28"; cite-year:"2016a"; cite-authors:"Smet"; cite-authors-long:"Smet"; cite-label:"34"; caption:"Example: Historic Building: 13-15 Century Monastery used as Museum and Cultural Centre&nl;Smet, 2016a"; data-line:"references.bib:232"; searchterm:"Example%3A%20Historic%20Building%3A%201315%20Century%20Monastery%20used%20as%20Museum%20and%20Cultural%20Centre%20Smet%2C%202016a"; bibitem-label:"\[34\]"}
+\/De Smet. &ldquo;Example: Historic Building: 13-15 Century Monastery Used as Museum and Cultural Centre.&rdquo; Sep. 2016. Accessed September 19. <http://www.framemethod.net/indexen_20.html>{.bib-url}.
+~ end bibitem
+
+~ begin bibitem {id:"30"; cite-year:"n.d."; cite-authors:"Smet"; cite-authors-long:"Smet"; cite-label:"35"; caption:"F.R.A.M.E calculation report: Kanunnick Triest te Melle&nl;Smet, n.d."; data-line:"references.bib:246"; searchterm:"F.R.A.M.E%20calculation%20report%3A%20Kanunnick%20Triest%20te%20Melle%20Smet%2C%20n.d."; bibitem-label:"\[35\]"}
+\/De Smet. &ldquo;F.R.A.M.E Calculation Report: Kanunnick Triest Te Melle.&rdquo; <http://www.framemethod.net/indexnl_html_files/Brand%20in%20Zorgcentrum%20Kanunnik%20Triest%20te%20Melle.pdf>{.bib-url}.
+~ end bibitem
+
+~ begin bibitem {id:"12"; cite-year:"2001"; cite-authors:"Tomomatsu"; cite-authors-long:"Tomomatsu"; cite-label:"36"; caption:"Evacuation Simulation System Considering Evacuee Profiles and Spatial Characteristics&nl;Tomomatsu, 2001"; data-line:"references.bib:101"; searchterm:"Evacuation%20Simulation%20System%20Considering%20Evacuee%20Profiles%20and%20Spatial%20Characteristics%20Tomomatsu%2C%202001"; bibitem-label:"\[36\]"}
+\/S.&nbsp;Uehara; K.&nbsp;Tomomatsu. &ldquo;Evacuation Simulation System Considering Evacuee Profiles and Spatial Characteristics.&rdquo; In _Proceedings of the 7th International Symposium of Safety Science_, 963–974. 2001.
+~ end bibitem
+
+~ end bibliography
