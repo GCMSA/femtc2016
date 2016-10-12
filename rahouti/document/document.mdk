@@ -538,24 +538,22 @@ The analysis of the results showed that (1) conducting an assisted evacuation
 
 # FUTURE WORK
 
-This research highlighted a lack of data about preparation times, the
-number of attendants needed to assist the non-ambulant patients during
-the evacuation process and the walking speeds. Future data collection
-efforts are required to collect and analyze these variables.
-
-Further to this, more research is required to evaluate the effect of
-stress and fatigue perceived by the attendants during the patient's
-collection.
-
-In addition, future works could investigate the impact of training of the
-attendants on the evacuation time. Virtual Reality gaming could be used
-in the future to provide valuable insight into a real life simulation and
-highlight areas of risk.
-
-Finally, future research could focus on the coupling of this analysis
-with the study of the possible effect of the fire itself. In fact, the
-fire has a direct effect on the evacuating population, e.g., the presence
-of the fire and smoke affects the people behavior, and there would be
-the need to simulate this impact on the evacuation process.
+This research highlighted a lack of data about preparation times,
+ the number of attendants needed to assist the non-ambulant patients
+  during the evacuation process and the walking speeds. Future data 
+  collection efforts are required to collect and analyze these variables.
+   Further to this, more research is required to evaluate the effect of 
+   stress and fatigue perceived by the attendants during the repeated 
+   patient’s collection. In addition, future works could investigate 
+   the impact of training of the attendants on the evacuation process.
+    For example, by using virtual reality gaming techniques. Another
+     important point to investigate is the integration of an explicit
+      model to simulate assisted evacuations, such as the model 
+      developed by Hunt [10], into the evacuation models. Finally,
+       future research could focus on the coupling of this analysis
+        with the study of the possible effect of the fire on the 
+        evacuating population, e.g., the presence of the fire and 
+        smoke affects the peoples’ behaviors, and there 
+would be the need to simulate this impact on the evacuation process. 
 
 [BIB]
