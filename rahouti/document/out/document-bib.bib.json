@@ -1,0 +1,804 @@
+{
+  "1": {
+    "id": "1",
+    "type": "report",
+    "genre": "techreport",
+    "author": [
+      {
+        "family": "Sécurité",
+        "given": "Centre",
+        "dropping-particle": "fédéral de connaissances pour la civile"
+      }
+    ],
+    "title": "Statistiques 2013 des services d'incendie belges",
+    "issued": {
+      "date-parts": [
+        [
+          "2013"
+        ]
+      ]
+    },
+    "_line": "references.bib:3"
+  },
+  "2": {
+    "id": "2",
+    "type": "report",
+    "genre": "techreport",
+    "author": [
+      {
+        "family": "Hoskins",
+        "given": "E.D. Kuligowski; R.D. Peacock; B.L."
+      }
+    ],
+    "title": "Technical Note 1680:A review of building evacuation models (2nd edition)",
+    "issued": {
+      "date-parts": [
+        [
+          "2010"
+        ]
+      ]
+    },
+    "publisher": "NIST",
+    "publisher-place": "Gaithersburg, USA",
+    "_line": "references.bib:10"
+  },
+  "3": {
+    "id": "3",
+    "type": "paper-conference",
+    "author": [
+      {
+        "family": "Aguirre",
+        "given": "G. Santos; B.E."
+      }
+    ],
+    "title": "A critical review of emergency evacuation simulation models",
+    "container-title": "Proceeding of the NIST Workshop on Building Occupant Movement during Fire Emergencies",
+    "issued": {
+      "date-parts": [
+        [
+          "6",
+          "10"
+        ]
+      ]
+    },
+    "publisher": "NIST",
+    "publisher-place": "Gaithersburg, USA",
+    "page": "25-50",
+    "page-first": "25",
+    "_line": "references.bib:20"
+  },
+  "4": {
+    "id": "4",
+    "type": "book",
+    "author": [
+      {
+        "family": "Castle",
+        "given": "C.J.E"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Advanced Spatial Analysis",
+        "given": "Centre",
+        "dropping-particle": "for"
+      }
+    ],
+    "title": "Guidelines for assessing pedestrian evacuation software applications",
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    },
+    "publisher": "University College London",
+    "publisher-place": "London",
+    "_line": "references.bib:31"
+  },
+  "5": {
+    "id": "5",
+    "type": "entry-encyclopedia",
+    "author": [
+      {
+        "family": "Fillipidis",
+        "given": "S.M.V Gwynne; E.R. Galea; M. Owen; P.J. Lawrence; L."
+      }
+    ],
+    "title": "Review of modelling methodologies used in the simulation of evacuation",
+    "container-title": "J. Build. Environ., 34",
+    "issued": {
+      "date-parts": [
+        [
+          "1999"
+        ]
+      ]
+    },
+    "page": "441-749",
+    "page-first": "441",
+    "_line": "references.bib:40"
+  },
+  "6": {
+    "id": "6",
+    "type": "paper-conference",
+    "author": [
+      {
+        "family": "Kuligowski",
+        "given": "S.M.V Gwynne; E.D."
+      }
+    ],
+    "title": "Application modes of egress simulation",
+    "container-title": "Proceeding of Pedestrian and Evacuation Dynamics",
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    },
+    "publisher-place": "Wuppertal, Germany",
+    "page": "397-409",
+    "page-first": "397",
+    "_line": "references.bib:48"
+  },
+  "7": {
+    "id": "7",
+    "type": "paper-conference",
+    "author": [
+      {
+        "family": "Levin",
+        "given": "B.M"
+      }
+    ],
+    "title": "EXITT- A simulation model of occupant decisions and actions in residential fires",
+    "container-title": "Proceedings of the 2nd International Symposium on Fire Safety Science",
+    "issued": {
+      "date-parts": [
+        [
+          "1989"
+        ]
+      ]
+    },
+    "publisher-place": "Tokyo, Japan",
+    "_line": "references.bib:57"
+  },
+  "8": {
+    "id": "8",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Sasaki",
+        "given": "K. Christensen; Y."
+      }
+    ],
+    "title": "Agent-Based Emergency Evacuation Simulation with Individuals with Disabilities in the Population",
+    "container-title": "Journal of Artificial Societies and Social Simulation",
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    },
+    "issn": "1460-7425",
+    "URL": "http://jasss.soc.surrey.ac.uk/11/3/9.html",
+    "page": "9",
+    "page-first": "9",
+    "volume": "11",
+    "issue": "3",
+    "_line": "references.bib:66"
+  },
+  "9": {
+    "id": "9",
+    "type": "paper-conference",
+    "author": [
+      {
+        "family": "Lawrence",
+        "given": "J. Parke; S.M.V Gwynne; E.D Galea; P."
+      }
+    ],
+    "title": "Validating the buildingEXODUS evacuation model using data from an unannounced trial evacuation",
+    "container-title": "Proceedings of 2nd International Pedestrian and Evacuation Dynamics Conference",
+    "issued": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ]
+    },
+    "publisher-place": "London, UK",
+    "_line": "references.bib:78"
+  },
+  "10": {
+    "id": "10",
+    "type": "thesis",
+    "genre": "phdthesis",
+    "author": [
+      {
+        "family": "Hunt",
+        "given": "A."
+      }
+    ],
+    "title": "Simulating Hospital Evacuation",
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    },
+    "publisher": "University of Greenwich",
+    "_line": "references.bib:86"
+  },
+  "11": {
+    "id": "11",
+    "type": "report",
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "W."
+      }
+    ],
+    "title": "Using Computer Simulations to Support a Risk-Based Approach for Hospital Evacuation",
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    },
+    "publisher": "Glasgow Accident Analysis Group, Department of Computing Science, University of Glasgow",
+    "publisher-place": "Glasgow, UK",
+    "_line": "references.bib:93"
+  },
+  "12": {
+    "id": "12",
+    "type": "paper-conference",
+    "author": [
+      {
+        "family": "Tomomatsu",
+        "given": "S. Uehara; K."
+      }
+    ],
+    "title": "Evacuation Simulation System Considering Evacuee Profiles and Spatial Characteristics",
+    "container-title": "Proceedings of the 7th International Symposium of Safety Science",
+    "issued": {
+      "date-parts": [
+        [
+          "2001"
+        ]
+      ]
+    },
+    "page": "963-974",
+    "page-first": "963",
+    "_line": "references.bib:101"
+  },
+  "13": {
+    "id": "13",
+    "type": "entry-encyclopedia",
+    "author": [
+      {
+        "family": "Alvear",
+        "given": "A. Cuesta; O. Abreu; D."
+      }
+    ],
+    "title": "Evacuation modeling trends",
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    },
+    "publisher": "Springer",
+    "_line": "references.bib:109"
+  },
+  "14": {
+    "id": "14",
+    "type": "book",
+    "author": [
+      {
+        "family": "Engineering",
+        "given": "Thunderhead"
+      }
+    ],
+    "title": "Pathfinder 2016, Technical Reference",
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    },
+    "_line": "references.bib:116"
+  },
+  "15": {
+    "id": "15",
+    "type": "paper-conference",
+    "author": [
+      {
+        "family": "Matikainen",
+        "given": "T. Korhonen; S. Hostikka; S. Heliövaara; H. Ehtamo; K."
+      }
+    ],
+    "title": "FDS+Evac: evacuation module for fire dynamics simulator",
+    "container-title": "Interflam2007: 11th International Conference on Fire Science and Engineering",
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    },
+    "publisher-place": "London, UK",
+    "_line": "references.bib:122"
+  },
+  "16": {
+    "id": "16",
+    "type": "book",
+    "author": [
+      {
+        "family": "Group",
+        "given": "STEPS - Simulation"
+      }
+    ],
+    "editor": [
+      {
+        "family": "MacDonald",
+        "given": "Mott"
+      }
+    ],
+    "title": "STEPS (Simulation of Transient Evacuation and Pedestrian movements) User Manual",
+    "issued": {
+      "date-parts": [
+        [
+          "2011"
+        ]
+      ]
+    },
+    "publisher-place": "Croydon, UK",
+    "_line": "references.bib:130"
+  },
+  "17": {
+    "id": "17",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Shimshak",
+        "given": "D. Golmohammadi; D."
+      }
+    ],
+    "title": "Estimation of the Evacuation Time in an Emergency Situation in Hospitals",
+    "container-title": "Computer and industrial engineering",
+    "issued": {
+      "date-parts": [
+        [
+          "2001"
+        ]
+      ]
+    },
+    "page": "1256-1267",
+    "page-first": "1256",
+    "_line": "references.bib:138"
+  },
+  "18": {
+    "id": "18",
+    "type": "report",
+    "author": [
+      {
+        "family": "Alonso",
+        "given": "V."
+      }
+    ],
+    "title": "Egress Modelling in Health Care Occupancies",
+    "issued": {
+      "date-parts": [
+        [
+          "7"
+        ]
+      ]
+    },
+    "publisher": "The Fire Protection Research Foundation, Technical Notes",
+    "publisher-place": "USA",
+    "_line": "references.bib:147"
+  },
+  "19": {
+    "id": "19",
+    "type": "report",
+    "author": [
+      {
+        "family": "Poggi",
+        "given": "D. Ursetta; A. D'Orazio; L. Grossi; G. Carbotti; S. Casentini; L."
+      }
+    ],
+    "title": "Egress from a Hospital Ward: a Case Study",
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2016",
+          "10",
+          "11"
+        ]
+      ]
+    },
+    "publisher": "FEMTC2014: Fire and Evacuation Modeling Technical Conference 2014",
+    "URL": "http://www.thunderheadeng.com/2014/10/femtc2014_d2-b-3_carbotti/",
+    "_line": "references.bib:156"
+  },
+  "20": {
+    "id": "20",
+    "type": "paper-conference",
+    "author": [
+      {
+        "family": "Galea",
+        "given": "A.P.M Adams; E.R"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Peacock",
+        "given": "E.D.; Averill, J.D.",
+        "suffix": "R.D.; Kuligowski"
+      }
+    ],
+    "title": "An experimental evaluation of movement devices used to assist people with reduced mobility in high-rise building evacuations",
+    "container-title": "Pedestrian and Evacuation Dynamics 2010, 5th International Conference",
+    "issued": {
+      "date-parts": [
+        [
+          "3"
+        ]
+      ]
+    },
+    "publisher": "Springer, New York, NY",
+    "page": "129–138",
+    "page-first": "129",
+    "_line": "references.bib:165"
+  },
+  "21": {
+    "id": "21",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Lawrence",
+        "given": "A. Hunt; E.R. Galea; P."
+      }
+    ],
+    "title": "An Analysis and Numerical Simulation of the Performance of Trained Hospital Staff using Movement Assist Devices to Evacuate People with Reduced Mobility",
+    "container-title": "Fire and Materials",
+    "issued": {
+      "date-parts": [
+        [
+          "2013",
+          "12"
+        ]
+      ]
+    },
+    "publisher": "Wiley-Blackwell",
+    "URL": "http://dx.doi.org/10.1002/fam.2215",
+    "DOI": "10.1002/fam.2215",
+    "page": "407-429",
+    "page-first": "407",
+    "volume": "39",
+    "issue": "4",
+    "_line": "references.bib:176"
+  },
+  "22": {
+    "id": "22",
+    "type": "book",
+    "genre": "Book; Book/Illustrated",
+    "author": [
+      {
+        "family": "Fruin"
+      }
+    ],
+    "title": "Pedestrian planning and design",
+    "issued": {
+      "date-parts": [
+        [
+          "1987"
+        ]
+      ]
+    },
+    "publisher": "Mobile, AL : Elevator World",
+    "edition": "Revised ed",
+    "note": "Based on the author's thesis, originally presented at the Polytechnic Institute of Brooklyn under the title: Designing for pedestrians",
+    "_line": "references.bib:191"
+  },
+  "23": {
+    "id": "23",
+    "type": "book",
+    "title": "MSC Circ. 1248, Interim Guidelines for Evacuation Analyses for New and Existing Passenger Ships International Maritime Organization",
+    "issued": {
+      "date-parts": [
+        [
+          "2002"
+        ]
+      ]
+    },
+    "_line": "references.bib:204"
+  },
+  "25": {
+    "id": "25",
+    "type": "webpage",
+    "author": [
+      {
+        "family": "Smet",
+        "given": "De"
+      }
+    ],
+    "title": "F.R.A.M.E: Fire Risk Assessment Method for Engineering",
+    "accessed": {
+      "date-parts": [
+        [
+          "2016",
+          "9",
+          "19"
+        ]
+      ]
+    },
+    "URL": "http://www.framemethod.net/indexen.html",
+    "_line": "references.bib:211"
+  },
+  "26": {
+    "id": "26",
+    "type": "webpage",
+    "author": [
+      {
+        "family": "Smet",
+        "given": "De"
+      }
+    ],
+    "title": "F.R.A.M.E calculation report: Düsseldorf Airport",
+    "accessed": {
+      "date-parts": [
+        [
+          "2016",
+          "9",
+          "19"
+        ]
+      ]
+    },
+    "URL": "http://www.framemethod.net/indexen_15.html",
+    "_line": "references.bib:218"
+  },
+  "27": {
+    "id": "27",
+    "type": "webpage",
+    "author": [
+      {
+        "family": "Smet",
+        "given": "De"
+      }
+    ],
+    "title": "F.R.A.M.E calculation report: Sofa Super Store Fire",
+    "accessed": {
+      "date-parts": [
+        [
+          "2016",
+          "9",
+          "19"
+        ]
+      ]
+    },
+    "URL": "http://www.framemethod.net/indexen_23.html",
+    "_line": "references.bib:225"
+  },
+  "28": {
+    "id": "28",
+    "type": "webpage",
+    "author": [
+      {
+        "family": "Smet",
+        "given": "De"
+      }
+    ],
+    "title": "Example: Historic Building: 13-15 Century Monastery used as Museum and Cultural Centre",
+    "accessed": {
+      "date-parts": [
+        [
+          "2016",
+          "9",
+          "19"
+        ]
+      ]
+    },
+    "URL": "http://www.framemethod.net/indexen_20.html",
+    "_line": "references.bib:232"
+  },
+  "29": {
+    "id": "29",
+    "type": "webpage",
+    "author": [
+      {
+        "family": "FiRE-TECH",
+        "given": "Project"
+      }
+    ],
+    "title": "Fire Risk Evaluation to European Cultural Heritage European study into the Fire Risk to European Cultural Heritage:WG6: Fire Risk Assessment Methods Draft final report",
+    "URL": "http://www.framemethod.net/indexen_html_files/wg6finalreport.pdf",
+    "_line": "references.bib:239"
+  },
+  "30": {
+    "id": "30",
+    "type": "webpage",
+    "author": [
+      {
+        "family": "Smet",
+        "given": "De"
+      }
+    ],
+    "title": "F.R.A.M.E calculation report: Kanunnick Triest te Melle",
+    "URL": "http://www.framemethod.net/indexnl_html_files/Brand%20in%20Zorgcentrum%20Kanunnik%20Triest%20te%20Melle.pdf",
+    "_line": "references.bib:246"
+  },
+  "31": {
+    "id": "31",
+    "type": "paper-conference",
+    "author": [
+      {
+        "family": "Datoussaïd",
+        "given": "A. Rahouti; S."
+      }
+    ],
+    "title": "Prédiction du risque incendie en milieu hospitalier",
+    "container-title": "GISEH16:La 8ème conférence francophone en Gestion et Ingénierie des Systèmes Hospitaliers",
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    },
+    "_line": "references.bib:252"
+  },
+  "32": {
+    "id": "32",
+    "type": "book",
+    "author": [
+      {
+        "family": "Hostikka",
+        "given": "T. Korhonen; S."
+      }
+    ],
+    "title": "Fire Dynamics Simulator with Evacuation – FDS+Evac, Version 2.5.0 – Technical Reference and User's Guide",
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    },
+    "publisher": "VTT",
+    "publisher-place": "Helsinki, Finland",
+    "_line": "references.bib:259"
+  },
+  "33": {
+    "id": "33",
+    "type": "chapter",
+    "author": [
+      {
+        "family": "Nelson",
+        "given": "H."
+      },
+      {
+        "family": "Mowrer",
+        "given": "F."
+      }
+    ],
+    "editor": [
+      {
+        "family": "DiNenno",
+        "given": "P."
+      }
+    ],
+    "title": "Emergency Movement",
+    "container-title": "SFPE Handbook of Fire Protection Engineering, third ed.",
+    "issued": {
+      "date-parts": [
+        [
+          "2002"
+        ]
+      ]
+    },
+    "publisher-place": "Quincy, MA",
+    "_line": "references.bib:267"
+  },
+  "34": {
+    "id": "34",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Hickson",
+        "given": "S.M.V Gwynne; E.R Galea; J. Parke; J."
+      }
+    ],
+    "title": "The collection and analysis of pre-evacuation time data collected from evacuation trials and their application to evacuation modeling",
+    "container-title": "Fire Technology",
+    "issued": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ]
+    },
+    "page": "179-195",
+    "page-first": "179",
+    "issue": "2,39",
+    "_line": "references.bib:276"
+  },
+  "35": {
+    "id": "35",
+    "type": "paper-conference",
+    "author": [
+      {
+        "family": "Hickson",
+        "given": "S.M.V Gwynne; E.R Galea; J. Parke; J."
+      }
+    ],
+    "title": "The collection of pre-evacuation times from evacuation trials involving hospital outpatient facility, in Evans DD",
+    "container-title": "Proceedings of the 7th International symposium fire safety science",
+    "issued": {
+      "date-parts": [
+        [
+          "2002"
+        ]
+      ]
+    },
+    "publisher": "IAFSS",
+    "page": "877-888",
+    "page-first": "877",
+    "_line": "references.bib:286"
+  },
+  "36": {
+    "id": "36",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Silcock",
+        "given": "K.E Boyce; T.J Shields; G.W.H"
+      }
+    ],
+    "title": "Toward the characterization of building occupancies for fire safety engineering: capabilities of disabled people moving horizontally and on an incline",
+    "container-title": "Fire Technology",
+    "issued": {
+      "date-parts": [
+        [
+          "1999"
+        ]
+      ]
+    },
+    "page": "51–67",
+    "page-first": "51",
+    "issue": "35",
+    "_line": "references.bib:295"
+  },
+  "37": {
+    "id": "37",
+    "type": "report",
+    "author": [
+      {
+        "family": "Gallaher",
+        "given": "C. Walts; J. Stanford; P. Weydeck; J. Lukat; C. Larsen; G. Benigni; C. Grady; C."
+      }
+    ],
+    "title": "Hospital Evacuation Toolkit",
+    "issued": {
+      "date-parts": [
+        [
+          "2011"
+        ]
+      ]
+    },
+    "publisher": "Florida Department of Health",
+    "_line": "references.bib:304"
+  },
+  "_preamble": "",
+  "_comments": ""
+}
